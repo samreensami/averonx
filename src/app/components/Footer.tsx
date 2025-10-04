@@ -12,7 +12,7 @@ const Footer = () => {
           <h2 className="text-2xl font-bold text-white">AveronX</h2>
           <p className="mt-3 text-sm text-gray-400 leading-relaxed">
             Empowering the next generation of leaders through innovation, 
-            collaboration, and community-driven growth.
+            collaboration and community-driven growth.
           </p>
         </div>
 

@@ -14,8 +14,8 @@ const About = () => {
           About AveronX
         </h2>
         <p className="mt-6 text-lg md:text-xl text-gray-300 leading-relaxed">
-          We empower the next generation of leaders through hands-on initiatives, 
-          collaborative learning, and community-driven projects. Our mission is to 
+          We empower the next generation of leaders through hands on initiatives 
+          collaborative learning and community driven projects. Our mission is to 
           create meaningful opportunities where ambition meets execution.
         </p>
       </div>
